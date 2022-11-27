@@ -2,7 +2,7 @@
 layout: default
 title: Navigation Structure
 nav_order: 99
-has_children: false
+has_children: true
 
 ---
 # Navigation Structure
