@@ -6,8 +6,7 @@ description: 'LiFx Documentation for making mods using the Life is Feudal: Exten
 permalink: "/"
 
 ---
-# Life is Feudal: Extended (LiFx)
-
+# Life is Feudal: Extended (LiFx)  
 {: .fs-9 }
 
 All the documentation you need to make your mods compatible with the LiFx framework. Made to be easy both for developers and users  
