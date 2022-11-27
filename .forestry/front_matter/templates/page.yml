@@ -26,3 +26,4 @@ fields:
 pages:
 - docs/configuration/configuration.md
 - docs/navigation-structure.md
+- index.md
