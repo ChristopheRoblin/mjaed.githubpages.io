@@ -4,7 +4,7 @@ title: Home
 description: 'LiFx Documentation for making mods using the Life is Feudal: Extended
   server and client frameowrk'
 permalink: "/"
-has_children: true
+has_children: false
 nav_order: 1
 
 ---
