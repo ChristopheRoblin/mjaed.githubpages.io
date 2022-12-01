@@ -1,7 +1,7 @@
 ---
 layout: default
 has_children: true
-title: Server mod
+title: Server framework
 nav_order: 
 published: false
 
