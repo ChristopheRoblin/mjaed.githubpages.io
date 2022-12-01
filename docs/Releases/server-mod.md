@@ -26,7 +26,7 @@ Please visit our documentation [here](#docs)
 
 ## 3. Changelog
 
-| --- | --- | --- |
+
 | Date | Version | Comment |
 | --- | --- | --- |
 | 01.12.2021 | 2.6.1| Added multiple hooks to support registration of player death and rudementery anticheat. |
