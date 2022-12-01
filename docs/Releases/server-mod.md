@@ -15,7 +15,7 @@ nav_order:
 
 1. TOC {:toc}
 
-## 1. Installation instructions
+## Installation instructions
 
 [Download the mod](/assets/images/art.zip){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
@@ -23,11 +23,11 @@ Copy the art.zip without unpackaging it to your servers root directory (same dir
 
 You are now set to download install and use compatible mods to the server framework
 
-## 2. For mod creators
+## For mod creators
 
 Please visit our documentation [here](#docs)
 
-## 3. Changelog
+## Changelog
 
 | Date | Version | Comment |
 | --- | --- | --- |
