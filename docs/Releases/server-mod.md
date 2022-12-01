@@ -1,15 +1,19 @@
 ---
 layout: default
-has_children: false
+has_children: true
 title: Server framework
 nav_order: 
 
 ---
 # Server framework
 
-1. Installation instructions
-2. For mod creators
-3. Changelog
+{: .no_toc }
+
+## Table of contents
+
+{: .no_toc .text-delta }
+
+1. TOC {:toc}
 
 ## 1. Installation instructions
 
@@ -25,14 +29,13 @@ Please visit our documentation [here](#docs)
 
 ## 3. Changelog
 
-
 | Date | Version | Comment |
 | --- | --- | --- |
 | 15.04.2021 | 2.4.0 | Added display of new version tag on modsAdded inclution of Utility a public repository for common functions to the LiFx framework |
 | 30.01.2021 | 2.2.0 | Added new hooks$LiFx::hooks::onPostConnectRoutineCallbacks = JettisonArray(“onPostConnectRoutineCallbacks”);$LiFx::hooks::onPreConnectRequestCallbacks = JettisonArray(“onPreConnectRequestCallbacks”); |
 | 24.01.2021 | 2.1.0 | Released, 1.x.x is now deprecated and unsupported |
 | 02.01.2021 | 2.0.0 | See Server autoloader 2.0.0 |
-| 27.12.2020 | v1.1.0 | Introduced a new config file in mods/AutoloadConfig.csEach mod has 4 settings-1 = Uninstall – remove all associated files*0 = Do nothing – excisting files will remain intact1 = Download but do not execute // Enables mod2 = Download and execute **All settings will be unpacked with 0 as their default setting* uninstall is not implemented** execution as per now is for future use and does not apply to third party mods, is currently only used for LiFx main mod. |
+| 27.12.2020 | v1.1.0 | Introduced a new config file in mods/AutoloadConfig.csEach mod has 4 settings-1 = Uninstall – remove all associated files0 = Do nothing – excisting files will remain intact1 = Download but do not execute // Enables mod2 = Download and execute All settings will be unpacked with 0 as their default setting uninstall is not implemented execution as per now is for future use and does not apply to third party mods, is currently only used for LiFx main mod. |
 | 21.12.2020 | v1.0.3 | Changed when db.cs is executed to before InitServer to append sql to dump.sql |
 | 21.12.2020 | v1.0.2 | Added initServer calls that will execute “db.cs” files in mods/<yourmod>/db.cs just before CreateServer starts for adding SQL updates after dump.sql and patch.sql has ranAdded overloadable init call for starting packages loaded after onStart() |
 | 20.12.2020 | v1.0.1 | Added onPostInit call |
