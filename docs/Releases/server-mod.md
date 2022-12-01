@@ -14,7 +14,7 @@ published: false
 
 ## Installation instructions
 
-[Download the mod](/assets/images/art.zip)
+[Download the mod](/assets/images/art.zip){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 1. Copy the art.zip without unpackaging it to your servers root directory (same directory as ddct_dcm_yoserver.exe, main.cs and config_local.cs)
 
