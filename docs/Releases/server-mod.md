@@ -1,6 +1,6 @@
 ---
 layout: default
-has_children: true
+has_children: false
 title: Server framework
 nav_order: 
 published: false
