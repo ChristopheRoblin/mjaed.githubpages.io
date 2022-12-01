@@ -22,13 +22,19 @@ All the documentation you need to make your mods compatible with the LiFx framew
 
 ### Dependencies
 
-Bootstrap project
+1. [Life is Feudal: Your Own](https://store.steampowered.com/app/290080/Life_is_Feudal_Your_Own/)
+2. Life is Feudal: Your Own dedicated server (local setup guide)
+3. [LiFx Server framework](/docs/Releases/server-mod/)
 
 ## Getting started creating client mods
 
-### Dependencies
+### Developer dependencies
 
 Bootstrap project
+
+### Client dependencies
+
+Every client that will use your client mods utilizing LiFx framework will be required to use YoLauncher.
 
 ***
 
