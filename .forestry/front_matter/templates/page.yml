@@ -24,6 +24,7 @@ fields:
     required: false
   label: permalink
 pages:
+- docs/Releases/server-mod.md
 - docs/configuration/configuration.md
 - docs/navigation-structure.md
 - index.md
