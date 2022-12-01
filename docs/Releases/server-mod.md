@@ -28,7 +28,8 @@ Please visit our documentation [here](#docs)
 
 | --- | --- | --- |
 | Date | Version | Comment |
-| a | 2.6.1| Added multiple hooks to support registration of player death and rudementery anticheat. |
+| --- | --- | --- |
+| 01.12.2021 | 2.6.1| Added multiple hooks to support registration of player death and rudementery anticheat. |
 | 15.04.2021 | 2.4.0 | Added display of new version tag on modsAdded inclution of Utility a public repository for common functions to the LiFx framework |
 | 30.01.2021 | 2.2.0 | Added new hooks$LiFx::hooks::onPostConnectRoutineCallbacks = JettisonArray(“onPostConnectRoutineCallbacks”);$LiFx::hooks::onPreConnectRequestCallbacks = JettisonArray(“onPreConnectRequestCallbacks”); |
 | 24.01.2021 | 2.1.0 | Released, 1.x.x is now deprecated and unsupported |
