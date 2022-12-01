@@ -8,7 +8,8 @@ has_children: false
 nav_order: 1
 
 ---
-# Life is Feudal: Extended (LiFx){: .fs-9 }
+# Life is Feudal: Extended (LiFx)  
+{: .fs-9 }
 
 All the documentation you need to make your mods compatible with the LiFx framework. Made to be easy both for developers and users{: .fs-6 .fw-300 }
 
